@@ -5,7 +5,7 @@
 	}
 */
 #include<iostream>
-#include<conio.h>
+#include<conio.h> //libreria que nos proporciona el comando getch()
 using namespace std;
 int main(){
 	int e; //creamos la variable de tipo entero.
