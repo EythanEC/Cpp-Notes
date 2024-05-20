@@ -8,4 +8,5 @@ Los temas al igual que sus directorios se iran actualizando constantemente y rec
 Estaré muy agradecido y atento a cada uno de sus mensajes y los atenderé de las maneras más optimas y rápidas posibles. Este fue un proyecto que quise compartir para otros estudiantes que al igual que yo estuvieran aprendiendo este grandioso lenguaje.
 Te recomiendo este libro por si quieres aún más material de apoyo para tu aprendice, por lo que te dejaré el enlace de descarga acá abajo:
 https://www.mediafire.com/file/93xnul1ijz4klwz/libro_c.pdf/file
+
 Atentamente: EythanEC
